@@ -45,7 +45,7 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [1300, -310, 90], "title": "EvilXisuma's Tower of Terror", "icon": "xisuma.png" },
 				{ "pos": [1525, -275, 64], "title": "Xisuma's giant statue", "icon": "xisuma.png" },
 				{ "pos": [1590, -265, 75], "title": "Xisuma's starter base", "icon": "xisuma.png" },
-				{ "pos": [1750, 625, 80], "title": "Zedaph's laboratory", "icon": "zedaph.png" },
+				{ "pos": [1750, 625, 80], "title": "Zedaph's laboratory", "icon": "zedaph.png" }
 			],
 		},
 	},
@@ -67,8 +67,9 @@ var MAPCRAFTER_MARKERS = [
 			// ...in the world "world"
 			"world": [
 				{ "pos": [537, 158, 25], "title": "Gemini's parkour challenge", "icon": "gemini.png" },
-        { "pos": [853, -724, 64], "title": "Tegg", "icon": "grian.png" },
+        			{ "pos": [853, -724, 64], "title": "Tegg", "icon": "grian.png" },
 				{ "pos": [540, 760, 121], "title": "Iskall's No Wings Club", "icon": "iskall.png" },
+				{ "pos": [-56, 466, 64], "title": "Yes Wings Club", "icon": "poi.png" },
 			],
 		},
 	},
